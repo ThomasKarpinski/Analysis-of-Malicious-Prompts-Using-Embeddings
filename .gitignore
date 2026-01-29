@@ -1,0 +1,26 @@
+# Environments
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python/Anaconda
+__pycache__/
+anaconda_projects/
+
+# Models and Large Binaries
+*.bin
+bert_robust_finetuned*/
+bert-safety-*/
+bert_robust_finetuned_old/
+
+# Data and Pickles
+*.pkl
+
+# Generated PDFs (keeping LaTeX source)
+*.pdf
+*.log
+*.aux
+*.toc
+*.out
